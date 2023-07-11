@@ -27,7 +27,7 @@ We also plotted all the ratio's with respect to time, in a continous fashion
 3. Installation
 To use the Financial Analyzer, follow these steps:
 
-Clone the project repository: git clone https://github.com/sudhanshu8833/Financial_Analyzer.git
+Clone the project repository: git clone https://github.com/rajesh887/Financial_Analyzer-main.git
 Install the required dependencies. See the Dependencies section for details. pip3 install -r requirements.txt
 Open any terminal and change the working directory to the folder where the project is present.
 Now run the command python3 manage.py runserver
